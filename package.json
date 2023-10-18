@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-amplify": "^5.3.12-api-v6-models.5d6fe9b.0"
-  },
-  "devDependencies": {
+    "aws-amplify": "^5.3.12-api-v6-models.5d6fe9b.0",
     "@aws-amplify/amplify-api-next-alpha": "^0.3.2",
     "@aws-amplify/backend": "^0.2.0-alpha.6",
     "@aws-amplify/backend-auth": "^0.2.0-alpha.6",
